@@ -1,0 +1,17 @@
+/*apply css properties to body tag*/
+
+body {
+	/* position: absolute; */
+	left: 2%;
+	text-align: center;
+}
+
+
+/*apply css properties to contain class*/
+.contain {
+	background-color: #F8EDE3;
+	padding-right: 5%;
+	padding-bottom: 5%;
+    margin: auto;
+	text-align: center;	
+}
